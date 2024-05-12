@@ -1,8 +1,9 @@
 # Computer-Vision-Project ##########################################
 Project in Computer Vision - COE 49413 - 01 || Project Group 7
 Fatima Sha'al / MHD Maen Khaskieh
-
 ####################################################################
+
+*** Please install this file as .txt file on your machine before reading for formatting ***
 
 How to run the code step by step for both training and testing cases:
 
